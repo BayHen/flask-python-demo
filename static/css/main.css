@@ -1,0 +1,35 @@
+*{
+    font-family: sans-serif;
+    margin: 0 auto;
+}
+
+table,
+th,
+td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 10px 50px;
+}
+
+.content{
+    text-align: center;
+}
+.name{
+    width: 70%;
+    height: 30px;
+    margin-right: 30px;
+}
+.add{
+    width: 30%;
+    height: 35px;
+}
+.form__group__1{
+    margin: 10px auto;
+    display: flex;
+    
+}
+.form__group{
+    width: 520px;
+    
+}
+
