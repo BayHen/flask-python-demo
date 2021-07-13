@@ -5,7 +5,6 @@
 **Create an environment:**
 
 ```bash
-$ mkdir myproject
 $ cd yourproject
 $ py -3 -m venv venv
 ```
